@@ -1,0 +1,2 @@
+dd if=xxx | openssl des3 -d -k xxx | tar zxf -
+
